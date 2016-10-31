@@ -1,6 +1,8 @@
 # My-table-is-called-BLE
 Repository with the files of my table. The table has a led strip of 60 RGB leds with an arduino and a BLE (Bluetooth low energy). 
 
+[![Video demostración](https://img.youtube.com/vi/2FVwQSlYSCI/0.jpg)](https://www.youtube.com/watch?v=2FVwQSlYSCI)
+
 In this repository there is the code of the arduino, and the android applicacion to controll the led strip.
 
 ##Arduino
