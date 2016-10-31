@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/amil101/AndroidStudioProjects/MESABLE/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/amil101/AndroidStudioProjects/MESABLE/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MESABLE</string>
+    <string name="blue">Blue</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="connManager">Connection Manager</string>
+    <string name="controlYeelight">Control Yeelight Blue</string>
+    <string name="duration_in_minutes">Duration</string>
+    <string name="green">Green</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidityTag">Humidity:</string>
+    <string name="intensity">Intensity</string>
+    <string name="monitorBLEduinoUart">Monitor BLEduino UART</string>
+    <string name="monitorHM10">Monitor HM10</string>
+    <string name="monitorRadiation">Monitor Radiation</string>
+    <string name="monitorSensorTag">Monitor SensorTag</string>
+    <string name="monitorTethercell">Monitor Tethercell</string>
+    <string name="periodTag">Advertising Period (msec): </string>
+    <string name="prefsFile">ConfigurationStorage</string>
+    <string name="read">Read</string>
+    <string name="receivedText">Received Text:</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="red">Red</string>
+    <string name="repeat_in_minutes">Repeat</string>
+    <string name="reset">Reset</string>
+    <string name="scan">Scan</string>
+    <string name="send">Send</string>
+    <string name="sensortag">sensortag</string>
+    <string name="sentText">Text to send:</string>
+    <string name="setTimer">Set Timer</string>
+    <string name="start_in_minutes">Start</string>
+    <string name="stateTag">State: </string>
+    <string name="stopScan">Stop Scan</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperatureTag">Temperature:</string>
+    <string name="timerTag">Timer: </string>
+    <string name="utcTag">UTC Time: </string>
+    <string name="values_in_minutes">(Values in minutes)</string>
+    <string name="voltageTag">Voltage (mV): </string>
+    <string name="yeelight">yeelight</string>
+    <!-- From: file:/home/amil101/AndroidStudioProjects/MESABLE/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
